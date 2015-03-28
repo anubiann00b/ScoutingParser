@@ -1,0 +1,2753 @@
+{
+  "Teams" : {
+    "360" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q1" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q10" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRdyjuz98p5ZpqUe4q" : 5
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "litterThrownLandfill" : 2,
+                "totesChuted" : 7
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 9
+              }
+            }
+          },
+          "Q14" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRkgMd2NXjmopy39sV" : 6
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q24" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS9LyKxxaNiyUpjiTl" : 5,
+                "-JlS9_bbZeYwExB77uPm" : 1
+              },
+              "human" : {
+                "litterChuted" : 2,
+                "litterThrownAutozone" : 0,
+                "totesChuted" : 7
+              },
+              "litter" : {
+                "binned" : 2
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q29" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 2,
+                "totesChuted" : 8
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q31" : {
+            "Competition" : "Auburn"
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Swerve/Crab",
+        "IntakeType" : "Claw",
+        "LiftType" : "Elevator",
+        "NoodleInteraction" : true,
+        "Notes" : "Different autonomous modes.",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 4,
+        "WheelType" : "Omni"
+      }
+    },
+    "948" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q13" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRj6XHoTODNtKb2muZ" : 6,
+                "-JlRjFtOLTl8IJBeexSZ" : 3,
+                "-JlRjLG1C2SCM9uZ6ZAu" : 6,
+                "-JlRjNEnQ0gOMediZcJl" : 3
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 4,
+                "totesChuted" : 9
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 9
+              }
+            }
+          },
+          "Q24" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 3,
+              "totesStacked" : 3
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS9aGkPopDBCbgjpK3" : 4
+              },
+              "coopertition" : {
+                "part" : 3,
+                "stack" : false
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "totesChuted" : 5
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q29" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 3,
+              "totesStacked" : 3
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 3,
+                "stack" : false
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "totesChuted" : 6
+              },
+              "litter" : {
+                "binned" : 0
+              }
+            }
+          },
+          "Q4" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRUr0GIHziu70yArZf" : 6
+              },
+              "human" : {
+                "litterThrownLandfill" : 1,
+                "totesChuted" : 9
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q6" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 2,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 1,
+                "totesChuted" : 6
+              },
+              "litter" : {
+                "binned" : 0
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          }
+        }
+      }
+    },
+    "1258" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q15" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 2,
+                "stack" : true
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q2" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownLandfill" : 2
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          },
+          "Q21" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS4h_bgZjDatrP2TfY" : 3
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q30" : {
+            "Competition" : "Auburn"
+          },
+          "Q6" : {
+            "Competition" : "Auburn"
+          }
+        }
+      }
+    },
+    "1425" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q14" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q2" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "fouls" : 1,
+            "teleop" : {
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q23" : {
+            "Competition" : "Auburn"
+          },
+          "Q27" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlSEEGxtgR3xueSAl0j" : 6
+              },
+              "totes" : {
+                "count" : 8
+              }
+            }
+          },
+          "Q6" : {
+            "Auton" : {
+              "binsMoved" : 2,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 6
+              }
+            }
+          }
+        }
+      }
+    },
+    "1899" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q13" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q21" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-fdsioewngklsieo" : 4
+              },
+              "human" : {
+                "litterChuted" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 10
+              }
+            }
+          },
+          "Q26" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 1,
+                "litterThrownAutozone" : 2,
+                "litterThrownLandfill" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q5" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q8" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 2
+              },
+              "totes" : {
+                "count" : 13
+              }
+            }
+          }
+        }
+      }
+    },
+    "2522" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q14" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 2,
+              "totesStacked" : 2
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRkSRwAl8XgbcUvqmk" : 4,
+                "-JlRkXQBt-7gAn7qVDqT" : 4,
+                "-JlRkcgDsEfJ4MQct-VZ" : 2
+              },
+              "totes" : {
+                "count" : 11
+              }
+            }
+          },
+          "Q20" : {
+            "Auton" : {
+              "binsMoved" : 2,
+              "moved" : true,
+              "totesMoved" : 8,
+              "totesStacked" : 7
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS3pEEVSsJCb4MB8Jn" : 7
+              }
+            }
+          },
+          "Q3" : {
+            "Competition" : "Auburn"
+          },
+          "Q30" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q9" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 2
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 1
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          }
+        }
+      }
+    },
+    "2555" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q15" : {
+            "Competition" : "Auburn"
+          },
+          "Q20" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 2,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q24" : {
+            "Competition" : "Auburn"
+          },
+          "Q5" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn"
+          },
+          "Q8" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 4
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          }
+        }
+      }
+    },
+    "2906" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q11" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 0
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          },
+          "Q3" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 1,
+                "litterThrownLandfill" : 2,
+                "totesChuted" : 2
+              }
+            }
+          },
+          "Q30" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 8
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q6" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 5
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          }
+        }
+      }
+    },
+    "2927" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q10" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q12" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 1,
+                "stack" : true
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q21" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS4nOOAsyP9L1CAMUk" : 2
+              },
+              "coopertition" : {
+                "part" : 1,
+                "stack" : false
+              },
+              "human" : {
+                "litterChuted" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          },
+          "Q27" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 1,
+                "stack" : true
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "litterThrownAutozone" : 1
+              },
+              "litter" : {
+                "binned" : 0
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          },
+          "Q4" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 2,
+                "litterThrownLandfill" : 4
+              },
+              "totes" : {
+                "count" : 7
+              }
+            }
+          }
+        }
+      }
+    },
+    "2929" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q12" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q2" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRRJphSYu-7nzr_Kbt" : 3
+              },
+              "totes" : {
+                "count" : 9
+              }
+            }
+          },
+          "Q23" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 12
+              },
+              "totes" : {
+                "count" : 10
+              }
+            }
+          },
+          "Q26" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 7
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q31" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 5,
+              "totesStacked" : 2
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlT4M8h8JmU28pU4bmC" : 2
+              },
+              "human" : {
+                "totesChuted" : 5
+              }
+            }
+          },
+          "Q9" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 4
+              }
+            }
+          }
+        }
+      }
+    },
+    "2942" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q15" : {
+            "Competition" : "Auburn"
+          },
+          "Q2" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 1
+              }
+            }
+          },
+          "Q24" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 0
+              }
+            }
+          },
+          "Q30" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 3
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q7" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          }
+        }
+      }
+    },
+    "2980" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q14" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q28" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q31" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q4" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q7" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          }
+        }
+      }
+    },
+    "3049" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q13" : {
+            "Auton" : {
+              "binsMoved" : -1,
+              "moved" : true,
+              "totesMoved" : -1,
+              "totesStacked" : -1
+            },
+            "Competition" : "Auburn",
+            "fouls" : -10,
+            "teleop" : {
+              "bins" : {
+                "-JlRkVNmVu1KEC7ab6AD" : -1
+              },
+              "coopertition" : {
+                "part" : -1,
+                "stack" : true
+              },
+              "human" : {
+                "litterChuted" : 0,
+                "litterThrownAutozone" : 0,
+                "litterThrownLandfill" : 0,
+                "totesChuted" : 0
+              },
+              "litter" : {
+                "landfilled" : 0
+              }
+            }
+          },
+          "Q20" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 4
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q26" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 2
+              }
+            }
+          },
+          "Q5" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q7" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          }
+        }
+      }
+    },
+    "3219" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q11" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q4" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRUsjBtTGNAyypkf0s" : 3
+              },
+              "human" : {
+                "litterChuted" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          },
+          "Q7" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 1,
+                "litterThrownLandfill" : 2
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          }
+        }
+      }
+    },
+    "3221" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q11" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRfqTOqKhnE9eCAP55" : 1,
+                "-JlRg2LFRq0jyl-MxVnP" : 1
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "litterThrownAutozone" : 1,
+                "totesChuted" : 2
+              },
+              "litter" : {
+                "binned" : 0
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q23" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 1
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q3" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRT0tegJlUBImuKyrJ" : 4
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q7" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlR_diLegsSNZcHuxZh" : 4
+              },
+              "human" : {
+                "litterThrownAutozone" : 0,
+                "litterThrownLandfill" : 2,
+                "totesChuted" : 4
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          }
+        }
+      }
+    },
+    "3237" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q13" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 2,
+                "stack" : false
+              }
+            }
+          },
+          "Q20" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q23" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS7hIH_f7I1e2QHOwP" : 0
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q26" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q3" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q8" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 3
+              }
+            }
+          }
+        }
+      }
+    },
+    "3393" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q1" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 6
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          },
+          "Q12" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q24" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS9Niqtw2DnOW8DX9F" : 5
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "totesChuted" : 5
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q27" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 1
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q8" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRawUkXUEAjPF474le" : 1
+              },
+              "coopertition" : {
+                "part" : 2,
+                "stack" : true
+              },
+              "human" : {
+                "totesChuted" : 4
+              },
+              "litter" : {
+                "binned" : 0
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          }
+        }
+      }
+    },
+    "3574" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q10" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn",
+            "fouls" : 1,
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 4,
+                "litterThrownLandfill" : 3
+              },
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q15" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q25" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 6
+              }
+            }
+          },
+          "Q27" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 2,
+                "litterThrownLandfill" : 1
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q3" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRT9na5YY1TG5hRhBU" : 4,
+                "-JlRTBtyMKRYZ0kOlQN2" : 4
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          }
+        }
+      }
+    },
+    "3684" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q13" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 2
+              }
+            }
+          },
+          "Q28" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 2
+              },
+              "litter" : {
+                "binned" : 2
+              }
+            }
+          },
+          "Q6" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRYKf94jr4N0r7Yh8p" : 3
+              },
+              "human" : {
+                "litterThrownAutozone" : 2,
+                "litterThrownLandfill" : 2
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Circular drive",
+        "IntakeType" : "None",
+        "LiftType" : "Forklift",
+        "NoodleInteraction" : false,
+        "Notes" : "Circular design. Picks up one on each side.",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 4,
+        "WheelType" : "Omni"
+      }
+    },
+    "3781" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q1" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 5
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q12" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRhR1WVo986yAKpMA5" : 2
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          },
+          "Q2" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 7
+              }
+            }
+          },
+          "Q20" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q29" : {
+            "Competition" : "Auburn"
+          },
+          "Q7" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 3
+              }
+            }
+          }
+        }
+      }
+    },
+    "3786" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q10" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q15" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 0,
+                "totesChuted" : 2
+              }
+            }
+          },
+          "Q23" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 1
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          },
+          "Q28" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 1
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Mecanum",
+        "IntakeType" : "Drives into totes",
+        "LiftType" : "Forklift",
+        "NoodleInteraction" : false,
+        "Notes" : "",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 4,
+        "WheelType" : "Mecanum"
+      }
+    },
+    "4060" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q1" : {
+            "Competition" : "Auburn"
+          },
+          "Q11" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRfnxzosamHRxXeH5A" : 1
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          },
+          "Q21" : {
+            "Competition" : "Auburn"
+          },
+          "Q9" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 3
+              }
+            }
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Mecanum",
+        "IntakeType" : "Wheels",
+        "LiftType" : "Forklift",
+        "NoodleInteraction" : false,
+        "Notes" : "",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 4,
+        "WheelType" : "Mecanum"
+      }
+    },
+    "4304" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q23" : {
+            "Competition" : "Auburn"
+          },
+          "Q27" : {
+            "Competition" : "Auburn"
+          },
+          "Q5" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q9" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Tank",
+        "IntakeType" : "None",
+        "LiftType" : "Forklift",
+        "NoodleInteraction" : false,
+        "Notes" : "40 points per match",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 6,
+        "WheelType" : "Traction"
+      }
+    },
+    "4461" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q11" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRg-kIj_w28lwkcYcL" : 3
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q25" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 3,
+                "stack" : true
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q30" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlSKPyLypAK65oz-zJv" : 2
+              },
+              "human" : {
+                "totesChuted" : 5
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q5" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRWapfAFPePRBjKAy8" : 2
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q8" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "coopertition" : {
+                "part" : 2,
+                "stack" : true
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Swerve/Crab",
+        "IntakeType" : "None",
+        "LiftType" : "Forklift",
+        "NoodleInteraction" : false,
+        "Notes" : "",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 4,
+        "WheelType" : "Omni"
+      }
+    },
+    "4469" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q10" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRe--ylVqwxoMzArID" : 4,
+                "-JlReAV0SP5WQJ1r9IyZ" : 3
+              },
+              "human" : {
+                "litterChuted" : 2,
+                "totesChuted" : 6
+              },
+              "litter" : {
+                "binned" : 2
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q15" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRlyc_KXng_APbSLBR" : 4
+              },
+              "human" : {
+                "litterChuted" : 2
+              },
+              "litter" : {
+                "binned" : 2
+              },
+              "totes" : {
+                "count" : 5
+              }
+            }
+          },
+          "Q4" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRUzUHFYdNUfUwG1M_" : 4
+              },
+              "human" : {
+                "litterChuted" : 1,
+                "totesChuted" : 4
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          }
+        }
+      }
+    },
+    "4579" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q1" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "fouls" : 0,
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 0,
+                "totesChuted" : 0
+              }
+            }
+          },
+          "Q13" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q2" : {
+            "Competition" : "Auburn"
+          },
+          "Q25" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "totesChuted" : 3
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q28" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 0,
+                "totesChuted" : 3
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q31" : {
+            "Competition" : "Auburn"
+          },
+          "Q9" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          }
+        }
+      }
+    },
+    "4980" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q12" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 1
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q21" : {
+            "Competition" : "Auburn"
+          },
+          "Q5" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRWDrh8ugXXw3NigGK" : 1,
+                "-JlRWSMY8hrDu2Cv6PaI" : 1
+              },
+              "human" : {
+                "litterThrownLandfill" : 3
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          },
+          "Q9" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 1
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlRcifAcTjpiEqAVfPG" : 4
+              },
+              "human" : {
+                "litterThrownAutozone" : 4
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Mecanum",
+        "IntakeType" : "None",
+        "LiftType" : "Elevator",
+        "NoodleInteraction" : false,
+        "Notes" : "Grabber on back grab containers on back",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 4,
+        "WheelType" : "Mecanum"
+      }
+    },
+    "5588" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q11" : {
+            "Auton" : {
+              "binsMoved" : 1,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterChuted" : 2
+              },
+              "litter" : {
+                "binned" : 2
+              }
+            }
+          },
+          "Q20" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlS3FZke3kYiH7jV5_v" : 2
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 1
+              }
+            }
+          },
+          "Q25" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 2,
+                "litterThrownLandfill" : 2
+              },
+              "litter" : {
+                "binned" : 1
+              }
+            }
+          },
+          "Q28" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "bins" : {
+                "-JlSFWTeRpddF1xOY0FP" : 2
+              },
+              "litter" : {
+                "binned" : 1
+              },
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q4" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q8" : {
+            "Competition" : "Auburn"
+          }
+        }
+      },
+      "Stats" : {
+        "DriveType" : "Tank",
+        "IntakeType" : "Claw",
+        "LiftType" : "Elevator",
+        "NoodleInteraction" : false,
+        "Notes" : "",
+        "RecycleInteraction" : true,
+        "ToteInteraction" : true,
+        "WheelCount" : 6,
+        "WheelType" : "Traction"
+      }
+    },
+    "5683" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q1" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownAutozone" : 3,
+                "litterThrownLandfill" : 1
+              },
+              "litter" : {
+                "landfilled" : 0
+              },
+              "totes" : {
+                "count" : 4
+              }
+            }
+          },
+          "Q21" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q6" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 1,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "litter" : {
+                "landfilled" : 0
+              },
+              "totes" : {
+                "count" : 3
+              }
+            }
+          }
+        }
+      }
+    },
+    "5748" : {
+      "Matches" : {
+        "Auburn" : {
+          "Q10" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "totes" : {
+                "count" : 2
+              }
+            }
+          },
+          "Q12" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn"
+          },
+          "Q3" : {
+            "Auton" : {
+              "binsMoved" : 0,
+              "moved" : true,
+              "totesMoved" : 0,
+              "totesStacked" : 0
+            },
+            "Competition" : "Auburn",
+            "teleop" : {
+              "human" : {
+                "litterThrownLandfill" : 1
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "competitions" : {
+    "Auburn" : {
+      "matches" : {
+        "Q1" : {
+          "BlueAllienceScore" : 26,
+          "RedAllienceScore" : 58,
+          "Team 1" : 5683,
+          "Team 2" : 3781,
+          "Team 3" : 4579,
+          "Team 4" : 3393,
+          "Team 5" : 4060,
+          "Team 6" : 360,
+          "TimeStamp" : 1427476685485
+        },
+        "Q10" : {
+          "Team 1" : 3574,
+          "Team 2" : 360,
+          "Team 3" : 2927,
+          "Team 4" : 5748,
+          "Team 5" : 4469,
+          "Team 6" : 3786,
+          "TimeStamp" : 1427483509837
+        },
+        "Q11" : {
+          "BlueAllienceScore" : 48,
+          "RedAllienceScore" : 20,
+          "Team 1" : 4060,
+          "Team 2" : 3221,
+          "Team 3" : 4461,
+          "Team 4" : 3219,
+          "Team 5" : 2906,
+          "Team 6" : 5588,
+          "TimeStamp" : 1427483868932
+        },
+        "Q12" : {
+          "BlueAllienceScore" : 44,
+          "RedAllienceScore" : 18,
+          "Team 1" : 3393,
+          "Team 2" : 5748,
+          "Team 3" : 3781,
+          "Team 4" : 2927,
+          "Team 5" : 4980,
+          "Team 6" : 2929,
+          "TimeStamp" : 1427484290747
+        },
+        "Q13" : {
+          "BlueAllienceScore" : 80,
+          "RedAllienceScore" : 1,
+          "Team 1" : 948,
+          "Team 2" : 1899,
+          "Team 3" : 4579,
+          "Team 4" : 3049,
+          "Team 5" : 3237,
+          "Team 6" : 3684,
+          "TimeStamp" : 1427484851350
+        },
+        "Q14" : {
+          "BlueAllienceScore" : 64,
+          "RedAllienceScore" : 94,
+          "Team 1" : 2980,
+          "Team 2" : 1425,
+          "Team 3" : 360,
+          "Team 4" : 5683,
+          "Team 5" : 2522,
+          "Team 6" : 4304,
+          "TimeStamp" : 1427485191453
+        },
+        "Q15" : {
+          "BlueAllienceScore" : 23,
+          "RedAllienceScore" : 48,
+          "Team 1" : 3574,
+          "Team 2" : 3786,
+          "Team 3" : 1258,
+          "Team 4" : 2555,
+          "Team 5" : 4469,
+          "Team 6" : 2942,
+          "TimeStamp" : 1427485528785
+        },
+        "Q2" : {
+          "BlueAllienceScore" : 43,
+          "RedAllienceScore" : 32,
+          "Team 1" : 2929,
+          "Team 2" : 3781,
+          "Team 3" : 4579,
+          "Team 4" : 1425,
+          "Team 5" : 2942,
+          "Team 6" : 1258,
+          "TimeStamp" : 1427479780278
+        },
+        "Q20" : {
+          "BlueAllienceScore" : 54,
+          "RedAllienceScore" : 23,
+          "Team 1" : 3049,
+          "Team 2" : 2522,
+          "Team 3" : 2555,
+          "Team 4" : 3237,
+          "Team 5" : 5588,
+          "Team 6" : 3781,
+          "TimeStamp" : 1427490191811
+        },
+        "Q21" : {
+          "BlueAllienceScore" : 62,
+          "RedAllienceScore" : 66,
+          "Team 1" : 1258,
+          "Team 2" : 4060,
+          "Team 3" : 4980,
+          "Team 4" : 2927,
+          "Team 5" : 5683,
+          "Team 6" : 1899,
+          "TimeStamp" : 1427490730811
+        },
+        "Q23" : {
+          "BlueAllienceScore" : 38,
+          "RedAllienceScore" : 46,
+          "Team 1" : 2929,
+          "Team 2" : 3786,
+          "Team 3" : 4304,
+          "Team 4" : 3237,
+          "Team 5" : 3221,
+          "Team 6" : 1425,
+          "TimeStamp" : 1427491420964
+        },
+        "Q24" : {
+          "Team 1" : 2942,
+          "Team 2" : 3684,
+          "Team 3" : 360,
+          "Team 4" : 948,
+          "Team 5" : 3393,
+          "Team 6" : 2555,
+          "TimeStamp" : 1427491835057
+        },
+        "Q25" : {
+          "BlueAllienceScore" : 48,
+          "RedAllienceScore" : 64,
+          "Team 1" : 3219,
+          "Team 2" : 4579,
+          "Team 3" : 4461,
+          "Team 4" : 5748,
+          "Team 5" : 5588,
+          "Team 6" : 3574,
+          "TimeStamp" : 1427492348909
+        },
+        "Q26" : {
+          "BlueAllienceScore" : 57,
+          "RedAllienceScore" : 40,
+          "Team 1" : 4469,
+          "Team 2" : 3237,
+          "Team 3" : 5683,
+          "Team 4" : 3049,
+          "Team 5" : 1899,
+          "Team 6" : 2929,
+          "TimeStamp" : 1427492703803
+        },
+        "Q27" : {
+          "BlueAllienceScore" : 67,
+          "RedAllienceScore" : 31,
+          "Team 1" : 3393,
+          "Team 2" : 1425,
+          "Team 3" : 3574,
+          "Team 4" : 2927,
+          "Team 5" : 4304,
+          "Team 6" : 3221,
+          "TimeStamp" : 1427493197057
+        },
+        "Q28" : {
+          "BlueAllienceScore" : 18,
+          "RedAllienceScore" : 16,
+          "Team 1" : 2980,
+          "Team 2" : 4579,
+          "Team 3" : 5588,
+          "Team 4" : 3684,
+          "Team 5" : 3219,
+          "Team 6" : 3786,
+          "TimeStamp" : 1427493558647
+        },
+        "Q29" : {
+          "BlueAllienceScore" : 71,
+          "RedAllienceScore" : 60,
+          "Team 1" : 360,
+          "Team 2" : 3781,
+          "Team 3" : 2555,
+          "Team 4" : 948,
+          "Team 5" : 4980,
+          "Team 6" : 5748,
+          "TimeStamp" : 1427493896915
+        },
+        "Q3" : {
+          "BlueAllienceScore" : 26,
+          "RedAllienceScore" : 72,
+          "Team 1" : 5748,
+          "Team 2" : 3221,
+          "Team 3" : 2906,
+          "Team 4" : 3574,
+          "Team 5" : 3237,
+          "Team 6" : 2522,
+          "TimeStamp" : 1427480358658
+        },
+        "Q30" : {
+          "BlueAllienceScore" : 29,
+          "RedAllienceScore" : 120,
+          "Team 1" : 2942,
+          "Team 2" : 4060,
+          "Team 3" : 2906,
+          "Team 4" : 4461,
+          "Team 5" : 2522,
+          "Team 6" : 1258,
+          "TimeStamp" : 1427494835619
+        },
+        "Q31" : {
+          "BlueAllienceScore" : 52,
+          "RedAllienceScore" : 24,
+          "Team 1" : 360,
+          "Team 2" : 2929,
+          "Team 3" : 3237,
+          "Team 4" : 2980,
+          "Team 5" : 4579,
+          "Team 6" : 2927,
+          "TimeStamp" : 1427495246213
+        },
+        "Q4" : {
+          "BlueAllienceScore" : 61,
+          "RedAllienceScore" : 88,
+          "Team 1" : 3219,
+          "Team 2" : 2980,
+          "Team 3" : 4469,
+          "Team 4" : 948,
+          "Team 5" : 5588,
+          "Team 6" : 2927,
+          "TimeStamp" : 1427480671748
+        },
+        "Q5" : {
+          "BlueAllienceScore" : 0,
+          "RedAllienceScore" : 2,
+          "Team 1" : 4980,
+          "Team 2" : 1899,
+          "Team 3" : 2555,
+          "Team 4" : 3049,
+          "Team 5" : 4461,
+          "Team 6" : 4304,
+          "TimeStamp" : 1427481159503
+        },
+        "Q6" : {
+          "BlueAllienceScore" : 36,
+          "RedAllienceScore" : 46,
+          "Team 1" : 948,
+          "Team 2" : 3684,
+          "Team 3" : 1425,
+          "Team 4" : 1258,
+          "Team 5" : 5683,
+          "Team 6" : 2906,
+          "TimeStamp" : 1427481757535
+        },
+        "Q7" : {
+          "BlueAllienceScore" : 40,
+          "RedAllienceScore" : 16,
+          "Team 1" : 2980,
+          "Team 2" : 3221,
+          "Team 3" : 3049,
+          "Team 4" : 2942,
+          "Team 5" : 3781,
+          "Team 6" : 3219,
+          "TimeStamp" : 1427482124014
+        },
+        "Q8" : {
+          "BlueAllienceScore" : 71,
+          "RedAllienceScore" : 85,
+          "Team 1" : 1899,
+          "Team 2" : 3393,
+          "Team 3" : 3237,
+          "Team 4" : 5588,
+          "Team 5" : 2555,
+          "Team 6" : 4461,
+          "TimeStamp" : 1427482641072
+        },
+        "Q9" : {
+          "BlueAllienceScore" : 60,
+          "RedAllienceScore" : 54,
+          "Team 1" : 4980,
+          "Team 2" : 2522,
+          "Team 3" : 4579,
+          "Team 4" : 4304,
+          "Team 5" : 2929,
+          "Team 6" : 4060,
+          "TimeStamp" : 1427483062874
+        }
+      }
+    }
+  },
+  "current" : {
+    "Competition" : "Auburn",
+    "PushID" : "Q31",
+    "Team 1" : {
+      "started" : true,
+      "teamNum" : 360
+    },
+    "Team 2" : {
+      "Done" : true,
+      "started" : true,
+      "teamNum" : 2929
+    },
+    "Team 3" : {
+      "teamNum" : 3237
+    },
+    "Team 4" : {
+      "Done" : true,
+      "started" : true,
+      "teamNum" : 2980
+    },
+    "Team 5" : {
+      "started" : true,
+      "teamNum" : 4579
+    },
+    "Team 6" : {
+      "teamNum" : 2927
+    }
+  }
+}
